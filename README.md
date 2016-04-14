@@ -12,7 +12,7 @@ Minecraft-PE 0.14に対応させた PocketMine-MPのsrc
 
 # 参考URL
  ・https://github.com/PocketMine/PocketMine-MP/commit/bc3dca4736a07980cf343983074ee846cc41a6d1  
- ・https://web.lobi.co/game/minecraftpe/group/64881349b85c596d297fcf07a7745ba434043bef/chat/1695430326
+ ~~https://web.lobi.co/game/minecraftpe/group/64881349b85c596d297fcf07a7745ba434043bef/chat/1695430326~~
 
 # 見た感じの不具合的なやつ
 ・インベントリを閉じるときにアイテムを捨ててしまう<Win10>  
